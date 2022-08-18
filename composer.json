@@ -1,0 +1,8 @@
+{
+    "name": "lorr/my_customer_generator",
+    "type": "library",
+    "description": "A library for generating a random customer.",
+    "require": {
+        "ramsey/uuid": "4.2.3"
+    }
+}
